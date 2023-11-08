@@ -1,0 +1,6 @@
+{
+  "domain": "dev-kxqkxff8.us.auth0.com",
+  "clientId": "skjd2PTxmc6PCrVrLY0HsYlJ0dHMAcnu",
+  "audience": "https://portal-test.genomiclife.com",
+  "appOrigin": "http://localhost:3000"
+}
